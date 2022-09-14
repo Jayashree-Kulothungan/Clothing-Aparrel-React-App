@@ -57,7 +57,6 @@ export default function SignUp() {
 		if (email === "") {
 			errors.email = "Email is Required ";
 		}
-
 		if (password === "") {
 			errors.password = "Password is required";
 		} else if (password.length < 8) {
