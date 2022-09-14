@@ -14,10 +14,7 @@ export default function ProductList() {
 			<ThemeProvider theme={theme}>
 				<div className="jumbotron">
 					<h1 className="display-4">Fashion never goes out of style!</h1>
-					<p className="lead">
-						This is a simple hero unit, a simple jumbotron-style component for
-						calling extra attention to featured content or information.
-					</p>
+					<p className="lead">Featuring the newly launched spring collection</p>
 				</div>
 			</ThemeProvider>
 		</>
